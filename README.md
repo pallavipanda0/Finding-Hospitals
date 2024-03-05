@@ -14,6 +14,8 @@ Detailed Description: Hackath Ideas
 (Suggested Site:practo.com however  you are free to choose any other legitimate  site)
 
 Key Automation Scope:
+
+
 1.Handling alert, different browser windows, search option
 2.Navigating back to home page
 3.Extract multiple options items & store in collections
